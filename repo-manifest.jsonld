@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/vllm-project/vllm-torchtpu/commit/b08f10fdc6166ff3aa3306629fcaf5b133012cb2",
       "git:hexsha": "b08f10fdc6166ff3aa3306629fcaf5b133012cb2",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T16:55:05.570593+00:00"
     },
     {
       "@id": "https://repolex.ai/r/vllm-project/vllm-torchtpu/commit/2b86deb1c381a4f695b9f8be524d772eae84c4fb",
