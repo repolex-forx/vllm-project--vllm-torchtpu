@@ -1,0 +1,11 @@
+{
+  "org": "vllm-project",
+  "repo": "vllm-torchtpu",
+  "versions": [
+    {
+      "commit": "b08f10fdc6166ff3aa3306629fcaf5b133012cb2",
+      "tag": "",
+      "parsed_at": "2026-11-08T16:55:05.571094+00:00"
+    }
+  ]
+}
